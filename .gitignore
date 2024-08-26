@@ -1,0 +1,7 @@
+# Everything
+*
+# Exceptions
+!*.git*
+!*.bat
+!scripts/
+!scripts/*.sh
